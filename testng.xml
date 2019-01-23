@@ -17,12 +17,4 @@
       <class name="script.Test1"/>
     </classes>
   </test> <!-- Test -->
-  <test thread-count="5" name="InternetExplorer">
-  <parameter name="ip" value="localhost"></parameter>
-  <parameter name="browser" value="ie"></parameter>
-    <classes>
-      <class name="crossbrowsing.CrossBrowsing"/>
-      <class name="script.Test1"/>
-    </classes>
-  </test> <!-- Test -->
 </suite> <!-- Suite -->
